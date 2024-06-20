@@ -1089,3 +1089,7 @@ top: 730px;
         button a:hover {
             color:#8BC3E9
         }
+
+.spacer { 
+height: 50px;
+}
